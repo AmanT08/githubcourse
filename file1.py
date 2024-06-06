@@ -1,8 +1,8 @@
-a=24
+a=22
 
 
-name="aman"
+name1="aman"
 abc=24
 
 def abcs():
-    print(name)
+    print(name1)
